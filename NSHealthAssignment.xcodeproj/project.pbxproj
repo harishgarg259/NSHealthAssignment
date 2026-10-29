@@ -341,8 +341,10 @@
 		000000000000000111000000 /* Debug configuration for PBXNativeTarget "NSHealthAssignment" */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = NSHealthAssignment/Resources/Assets.xcassets;
 				DEVELOPMENT_TEAM = CRHZ2U6WZS;
 				ENABLE_APP_SANDBOX = YES;
 				ENABLE_PREVIEWS = YES;
@@ -383,8 +385,10 @@
 		000000000000000112000000 /* Release configuration for PBXNativeTarget "NSHealthAssignment" */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = NSHealthAssignment/Resources/Assets.xcassets;
 				DEVELOPMENT_TEAM = CRHZ2U6WZS;
 				ENABLE_APP_SANDBOX = YES;
 				ENABLE_PREVIEWS = YES;
